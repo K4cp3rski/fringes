@@ -1,0 +1,8 @@
+backend.py
+setup.cfg
+setup.py
+fringes.egg-info/PKG-INFO
+fringes.egg-info/SOURCES.txt
+fringes.egg-info/dependency_links.txt
+fringes.egg-info/requires.txt
+fringes.egg-info/top_level.txt
